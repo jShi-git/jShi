@@ -1,0 +1,4 @@
+jShi
+====
+
+a javascript library
